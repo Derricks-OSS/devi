@@ -31,10 +31,10 @@ Used Gas station info https://data.colorado.gov/Energy/Alternative-Fuels-and-Ele
 # Architecture
 
 ## Frontend
-<img src="design/sdl-diagram.png" height="250" width="300">
+<img src="design/sdl-diagram.png" height="250" width="500">
 
 ## Backend
-<img src="design/near.png" height="250" width="300">
+<img src="design/near.png" height="250" width="500">
 
 ## Database
 <img src="design/bigquery.svg" height="300" width="300">
