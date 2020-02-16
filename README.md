@@ -1,6 +1,7 @@
 
 <img src="design/devi.png" height="250" width="300">
-***
+
+*** 
 
 DeVi or Decentralized Vehicle Initiatives is a DApp...
 
